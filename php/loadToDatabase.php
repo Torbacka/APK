@@ -13,7 +13,7 @@
 
 	function insertToDatabase($xml){
 	
-		$mysqli = mysqli_connect($host,$username, $password,$dbname);
+		$mysqli = mysqli_connect(DB_HOST,DB_USER,DB_PASSWORD, DB_NAME);
 		if(!$mysqli){
 				echo "Det här gick ju inte så bra!";
 		}
