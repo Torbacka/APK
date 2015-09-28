@@ -1,0 +1,57 @@
+#page{
+	padding-top:100px;
+}
+
+#box{
+	margin-left: 100px;
+	margin-right: 100px
+}
+.redRow {
+     background:rgba(255,0,0,0.1);
+}
+.darkRedRow{
+	background:rgba(255,0,0,0.2);
+}
+.greenRow{
+	background:rgba(0,255,0,0.1);
+}
+.darkGreenRow{
+	background:rgba(0,255,0,0.2);
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+h3{
+
+	color:#FF9900;
+
+}
+form{
+	padding-bottom: 50px;
+}
+
+
+table{
+	padding-top: 50px;
+	border:1px solid #DDD;
+	border-radius: 10px;
+}
+
+@media only screen and (max-width: 800px) {
+	#unseen table td:nth-child(3), 
+	#unseen table th:nth-child(3),
+	#unseen table td:nth-child(1), 
+	#unseen table th:nth-child(1) {display: none;}
+}
+ 
+@media only screen and (max-width: 640px) {
+	#unseen table td:nth-child(1),
+	#unseen table th:nth-child(1),
+	#unseen table td:nth-child(3),
+	#unseen table th:nth-child(3),
+	#unseen table td:nth-child(6),
+	#unseen table th:nth-child(6),
+	#unseen table td:nth-child(7),
+	#unseen table th:nth-child(7){display: none;}
+}

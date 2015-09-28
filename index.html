@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+ <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	<meta name="description" content="">
+	<meta name="author" content="Daniel Törbacka">
+
+	<!-- Bootstrap core CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+	<link rel="stylesheet" type="text/css" href="css/style2.css">
+
+	<!--<link rel="stylesheet" type="text/css" href="css/nav.css">-->
+	<title>apk</title>
+</head>
+<body>
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+            
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <h3 class="brand">APK</h3>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+			            <a class="btn" href="http://www.komigendetblirkul.nu">Alla</a>
+			        </li>
+			        <li>
+			            <a class="btn" title="41" href="?varugrupp=Punsch">Punsch</a>
+			        </li>
+			        <li>
+			            <a class="btn" title="41" href="?varugrupp=Cider">Cider</a>
+			        </li>
+			         <li>
+			            <a class="btn" title="41" href="?varugrupp=%C3%96l">Öl</a>
+			        </li>
+			        <li>
+			            <a class="btn" title="41" href="?varugrupp=Vin">Vin</a>
+			        </li>
+			        
+			       	<li>
+			            <a class="btn" title="41" href="?varugrupp=Sprit">Sprit</a>
+			        </li>
+			        
+			        <li>
+			            <a class="btn" title="41" href="?varugrupp=Whisky">Whisky</a>
+			        </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+	
+
+ 
+	<!--<div id="page" class="container">
+		<div class="row">
+		<div class="col-lg-12" >
+				<form class="form-search text-center" method="get" action="#">
+				  <div class="input-append">
+				    <input type="search" class="span7 search-query" name="q" autocomplete="off" tabindex="1">
+				  </div>
+				</form>
+			</div>
+		</div>
+		
+
+	<!--<div class="nav">
+	    <ul>
+	       
+	        
+	        
+	        
+	        
+	    </ul>
+    </div>
+
+</div>-->
+	<div id="page" class="container">
+		<div class="row">
+			<div class="col-lg-12 table-responsive">
+			
+				<table id="apkTable" class="table table-condensed tablesorter">
+					<thead>
+						<tr >
+							<th>#</th>
+							
+							<th >NAMN</th>
+							<th data-hide="tablet, phone" >NAMN2</th>
+							<th data-hide="tablet, phone" >VARUGRUPP</th>
+							<th >PRIS</th>
+							<th data-hide="tablet, phone" >VOLYM ml</th>
+							<th data-hide="tablet, phone" >%</th>
+							<th >APK</th>
+						</tr>
+					</thead>
+					<tbody>
+					<!--<tr class="clickable-row" data-href="url://google.se/">
+						<td>1</td>
+						<td>Jeanneret</td>
+						<td>Shiraz Grenache Rosé</td>
+						<td>Rosévin</td>
+						<td>29</td>
+						<td>750</td>
+						<td>12.5</td>
+						<td>3.233</td>
+					</tr>
+					<tr class="clickable-row" data-href="url://google.se/" >
+						<td>1</td>
+						<td>Jeanneret</td>
+						<td>Shiraz Grenache Rosé</td>
+						<td>Rosévin</td>
+						<td>29</td>
+						<td>750</td>
+						<td>12.5</td>
+						<td>3.233</td>
+					</tr >
+					<tr class="clickable-row" data-href="url://google.se/" >
+						<td>1</td>
+						
+						<td>Jeanneret</td>
+						<td>Shiraz Grenache Rosé</td>
+						<td>Rosévin</td>
+						<td>29</td>
+						<td>750</td>
+						<td>12.5</td>
+						<td>3.233</td>
+					</tr>
+					<tr class="clickable-row" data-href="https://google.se/">
+						<td>1</td>
+						
+						<td>Jeanneret</td>
+						<td>Shiraz Grenache Rosé</td>
+						<td>Rosévin</td>
+						<td>29</td>
+						<td>750</td>
+						<td>12.5</td>
+						<td>3.233</td>
+					</tr>
+						-->
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  
+	<script type="text/javascript" src="js/QueryData.js"></script>
+	<!-- Custom javascript-->
+
+	
+	
+	 
+	
+	
+	<script type="text/javascript" src="js/loadTable.js"></script>
+	
+	
+	
+</body>
+</html>
