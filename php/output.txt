@@ -1,0 +1,446 @@
+299029,7 Deadly Zins,Röda viner,35 st
+272052,A,Röda viner,18 st
+272067,A,Röda viner,24 st
+975123,Abelis Carthago,Röda viner,22 st
+806514,Adobe,Röda viner,55 st
+190840,Adobe,Röda viner,37 st
+39868,Alamos,Röda viner,27 st
+574728,Allegrini,Röda viner,13 st
+366416,Allegrini,Röda viner,19 st
+29244,Allegro,Röda viner,34 st
+30230,Allegro,Röda viner,39 st
+49521,Allesverloren,Röda viner,28 st
+33861,Allesverloren,Röda viner,26 st
+907265,Alto Pina,Röda viner,37 st
+779872,Amaltea de Loxarel,Röda viner,38 st
+49634,Amarone,Röda viner,17 st
+166504,Amarone Classico,Röda viner,15 st
+11255,Amarone Classico,Röda viner,14 st
+316984,Amarone della Valpolicella,Röda viner,20 st
+51540,Amarone della Valpolicella,Röda viner,18 st
+851672,Amazin',Röda viner,44 st
+676595,Amicone,Röda viner,23 st
+991120,Amore Assoluto,Röda viner,32 st
+818024,Antiche Terre Venete,Röda viner,24 st
+949073,Antiche Terre Venete,Röda viner,31 st
+797790,Antiche Terre Venete,Röda viner,44 st
+758376,Apothic Red,Röda viner,20 st
+39809,Appasanto,Röda viner,69 st
+213931,Aussie Kangarouge,Röda viner,59 st
+976445,Aussome Merlot,Röda viner,15 st
+170357,Azabache,Röda viner,36 st
+971875,Barão de Vilar,Röda viner,28 st
+1005524,Barbera del Monferrato,Röda viner,29 st
+890664,Barefoot,Röda viner,54 st
+676892,Barolo Albe,Röda viner,10 st
+1825,Baron de Ley,Röda viner,21 st
+995844,Baron De Ley,Röda viner,17 st
+793798,Barone Montalto,Röda viner,34 st
+215617,Barone Ricasoli,Röda viner,47 st
+3034,Beaujolais Royal,Röda viner,33 st
+3033,Beaujolais Royal,Röda viner,25 st
+931241,Bellflower,Röda viner,28 st
+368117,Beronia,Röda viner,23 st
+7209,Bianchi Montepulciano d'Abruzzo,Röda viner,42 st
+775922,Biurko,Röda viner,40 st
+905370,Black Mountain,Röda viner,50 st
+776291,Bloodstone,Röda viner,28 st
+41807,Boira',Röda viner,28 st
+543498,Bolgarello,Röda viner,12 st
+30148,Bolla Le Poiane,Röda viner,18 st
+670404,Bonpas,Röda viner,28 st
+17778,Bonterra,Röda viner,21 st
+871482,Borgogno,Röda viner,32 st
+229748,Bouchard Aîné,Röda viner,32 st
+3043,Bourgogne Rouge,Röda viner,24 st
+3042,Bourgogne Rouge,Röda viner,28 st
+843430,Brachetto d'Acqui,Röda viner,2 st
+164943,Briccotondo,Röda viner,18 st
+223331,Brolio,Röda viner,20 st
+165264,Brolio,Röda viner,22 st
+11070,Brunello di Montalcino,Röda viner,12 st
+891152,Brunello di Montalcino,Röda viner,18 st
+164272,Cacadu Ridge,Röda viner,29 st
+945195,Cafaggio di Toscana,Röda viner,25 st
+325466,Cafê Culture,Röda viner,32 st
+982925,Calabuig,Röda viner,19 st
+905339,Camden Park,Röda viner,51 st
+391517,Cameleon,Röda viner,26 st
+209122,Cameleon,Röda viner,17 st
+209119,Cameleon,Röda viner,18 st
+878984,Cameleon,Röda viner,72 st
+2083,Campo Viejo,Röda viner,37 st
+4603,Campo Viejo,Röda viner,34 st
+13548,Campolieti,Röda viner,24 st
+3877,Campolieti,Röda viner,31 st
+339649,Campos de Luz,Röda viner,114 st
+688241,Campos de Luz,Röda viner,47 st
+548499,Campos Góticos,Röda viner,14 st
+677903,Candidato Ecologico,Röda viner,17 st
+243476,Candidato Ecologico,Röda viner,27 st
+504515,Cantina Zaccagnini,Röda viner,38 st
+674370,Cantina Zaccagnini,Röda viner,33 st
+366516,Cape Heights,Röda viner,21 st
+11261,Capitel de'Roari,Röda viner,20 st
+165297,Cappello di Prete,Röda viner,37 st
+758186,Caravan,Röda viner,15 st
+825755,Casa Capriolo,Röda viner,24 st
+932531,Casa Nostra,Röda viner,29 st
+761502,Casa Vinironia,Röda viner,25 st
+718217,Casa Vinironia,Röda viner,24 st
+724689,Casa Vinironia,Röda viner,72 st
+874444,Casa Vinironia Palloncino,Röda viner,24 st
+518144,Casas Patronales,Röda viner,70 st
+20550,Casillero del Diablo,Röda viner,45 st
+2254,Casillero del Diablo,Röda viner,35 st
+2253,Casillero del Diablo,Röda viner,46 st
+52547,Casillero del Diablo,Röda viner,34 st
+685593,Casillero del Diablo,Röda viner,16 st
+51073,Casillero del Diablo,Röda viner,34 st
+552297,Casillero del Diablo,Röda viner,26 st
+545091,Castelforte,Röda viner,20 st
+629924,Castelforte,Röda viner,87 st
+579549,Castelforte,Röda viner,27 st
+677882,Castelforte,Röda viner,6 st
+943071,Castillo de Alicante,Röda viner,29 st
+15535,Castillo de Gredos,Röda viner,35 st
+22289,Castillo de Gredos,Röda viner,20 st
+928063,Cecchi,Röda viner,32 st
+812112,Cerro,Röda viner,11 st
+962798,Charles & Charles,Röda viner,15 st
+910600,Château Avernus,Röda viner,35 st
+243594,Château Bouscassé,Röda viner,22 st
+980787,Château de Lavison,Röda viner,37 st
+15310,Château de Seguin,Röda viner,27 st
+21775,Château de Seguin,Röda viner,4 st
+973796,Château d'Eternes,Röda viner,17 st
+1006372,Château La Bourrée,Röda viner,1 st
+8399,Château Mont-Redon,Röda viner,19 st
+22525,Château Pech-Latt,Röda viner,33 st
+616786,Chianti,Röda viner,19 st
+25924,Chianti Classico Riserva,Röda viner,18 st
+43904,Chill Out,Röda viner,50 st
+677037,Chill Out,Röda viner,28 st
+520029,Chill Out,Röda viner,32 st
+583258,Chill Out,Röda viner,31 st
+36728,Chill Out,Röda viner,75 st
+740007,Cigarra,Röda viner,36 st
+368246,Cigarra,Röda viner,44 st
+324034,Claude Val Rouge,Röda viner,43 st
+38733,Cline,Röda viner,42 st
+651966,Cline,Röda viner,19 st
+11321,Conde de Valdemar,Röda viner,15 st
+935027,Conero Riserva,Röda viner,32 st
+537258,Cono Sur,Röda viner,38 st
+1401,Copertino,Röda viner,27 st
+852433,Corralillo,Röda viner,8 st
+50947,Corvina Veronese,Röda viner,24 st
+7609,Côtes-du-Rhône,Röda viner,27 st
+3218,Côtes-du-Rhône,Röda viner,33 st
+192402,Côtes-du-Rhône,Röda viner,11 st
+785439,Côtes-du-Rhône,Röda viner,20 st
+7995,Coto de Imaz,Röda viner,24 st
+48209,Couvent des Jacobins,Röda viner,19 st
+36357,Crozes-Hermitage,Röda viner,18 st
+933960,Cuma Organic,Röda viner,14 st
+537338,Diemersfontein,Röda viner,18 st
+958205,Dig This!,Röda viner,62 st
+1008190,Dogajolo,Röda viner,24 st
+19388,Domaine du Vieux Lazaret,Röda viner,22 st
+401809,Domaine Duseigneur Lirac Odyssée,Röda viner,1 st
+39999,Domaine Lalande Réserve,Röda viner,36 st
+49753,Domìni Veneti,Röda viner,13 st
+236050,Domìni Veneti,Röda viner,14 st
+497350,Doppio Passo,Röda viner,31 st
+678420,Doppio Passo,Röda viner,16 st
+48235,Down Under,Röda viner,30 st
+972243,Dragone,Röda viner,15 st
+552238,Dragunera,Röda viner,58 st
+24872,Drostdy-Hof,Röda viner,37 st
+50513,Ecologica,Röda viner,54 st
+48020,Ecologica,Röda viner,54 st
+37038,Ecologica El Condor,Röda viner,36 st
+710922,Eikendal La Grâce,Röda viner,22 st
+14024,El Coto,Röda viner,22 st
+10331,El Coto,Röda viner,40 st
+208820,Elvis The King,Röda viner,17 st
+979032,Epica,Röda viner,22 st
+637098,Epicuro,Röda viner,26 st
+728854,Epicuro,Röda viner,32 st
+766211,Ernst Kirchsteigers,Röda viner,29 st
+426283,Fair & Square,Röda viner,35 st
+993602,Falchini,Röda viner,0 st
+15469,Fantini,Röda viner,25 st
+1975,Faustino I,Röda viner,17 st
+15818,Faustino VII,Röda viner,14 st
+942581,Ferrandière,Röda viner,20 st
+886579,Finca Antigua,Röda viner,30 st
+272080,Fontanafredda Ebbio,Röda viner,16 st
+42136,Fonterutoli,Röda viner,19 st
+205747,Foot of Africa,Röda viner,23 st
+417412,Foot of Africa,Röda viner,17 st
+381689,Fox Creek,Röda viner,18 st
+973131,Francisco Gomez,Röda viner,44 st
+832201,Gardo & Morris,Röda viner,28 st
+8016,Gato Negro,Röda viner,20 st
+8015,Gato Negro,Röda viner,45 st
+15359,Gato Negro,Röda viner,62 st
+826657,Gemtree,Röda viner,17 st
+673234,Gérard Bertrand Château L'Hospitalet,Röda viner,17 st
+210851,Gnarly Head,Röda viner,43 st
+572680,Gnarly Head,Röda viner,11 st
+733087,Gnarly Head,Röda viner,31 st
+432918,Gosa,Röda viner,63 st
+819205,Governo,Röda viner,24 st
+862417,Gran Maestro,Röda viner,43 st
+647613,Grand Sud,Röda viner,86 st
+992055,Grande Alberone,Röda viner,31 st
+713614,Gratena Chianti,Röda viner,22 st
+892338,Grillo,Röda viner,54 st
+440854,Gurra Gurra Creek,Röda viner,45 st
+931728,Hardys Nottage Hill,Röda viner,17 st
+964452,Hardys Nottage Hill,Röda viner,6 st
+852818,Heartwood,Röda viner,33 st
+283462,Hidden Rock,Röda viner,26 st
+1002712,Huntyard,Röda viner,26 st
+27608,Husets Röda,Röda viner,30 st
+819332,i Castei,Röda viner,43 st
+41888,i Castei,Röda viner,17 st
+645586,Il Barone,Röda viner,88 st
+251570,il Conte,Röda viner,35 st
+235878,il Conte,Röda viner,28 st
+29186,il Conte,Röda viner,35 st
+639124,Il Cuore Per Martina,Röda viner,33 st
+34364,il Nostro,Röda viner,39 st
+25032,Inycon,Röda viner,22 st
+299055,Irony,Röda viner,20 st
+643525,Jacob's Creek,Röda viner,33 st
+21532,Jacob's Creek,Röda viner,28 st
+1388,Jacob's Creek,Röda viner,34 st
+927041,Jacob's Creek Barossa,Röda viner,12 st
+907066,Jacob's Creek Lighter Alcohol,Röda viner,22 st
+17086,JP Chenet,Röda viner,37 st
+43233,JP Chenet,Röda viner,12 st
+14681,JP Chenet,Röda viner,27 st
+13473,JP Chenet,Röda viner,69 st
+4489,Killawarra,Röda viner,44 st
+17266,Killawarra,Röda viner,49 st
+865576,Kleine Zalze,Röda viner,32 st
+391514,Kleine Zalze,Röda viner,32 st
+391511,Kleine Zalze,Röda viner,27 st
+1018683,Koyle,Röda viner,23 st
+990020,Koyle Reserva,Röda viner,26 st
+271665,La Bastide Blanche,Röda viner,14 st
+939397,La Commedia,Röda viner,22 st
+32715,La Grola,Röda viner,12 st
+1913,La Revedere,Röda viner,25 st
+852260,LAB Reserva,Röda viner,28 st
+852266,LAB Reserva,Röda viner,56 st
+732746,Laccento,Röda viner,18 st
+12582,Lambrusco Reggiano,Röda viner,19 st
+338837,Lat 42,Röda viner,47 st
+19842,Le Bistro,Röda viner,36 st
+714764,Le Hurlevent,Röda viner,23 st
+783740,Les Dauphins,Röda viner,24 st
+335819,Les Hauts de Granget,Röda viner,28 st
+807497,Les Pious,Röda viner,23 st
+939796,Leyda,Röda viner,20 st
+37841,Lindemans,Röda viner,25 st
+42572,Lindemans Bin 40,Röda viner,34 st
+4979,Lindemans Bin 45,Röda viner,39 st
+42573,Lindemans Bin 45,Röda viner,14 st
+24912,Lindemans Bin 50,Röda viner,40 st
+9856,Lindemans Cawarra,Röda viner,26 st
+503399,Lionheart of the Barossa,Röda viner,16 st
+983520,Lion's Lair,Röda viner,22 st
+395698,Lirac,Röda viner,1 st
+737780,Lupi Reali,Röda viner,39 st
+52140,Lyngrove,Röda viner,33 st
+834042,Lynx,Röda viner,36 st
+860934,Manifesto,Röda viner,37 st
+793567,Maria Montazami,Röda viner,27 st
+4970,Marqués de Arienzo,Röda viner,16 st
+2006,Marqués de Arienzo,Röda viner,24 st
+2005,Marqués de Arienzo,Röda viner,20 st
+19164,Marqués de Cáceres,Röda viner,26 st
+171422,Marqués de Murrieta,Röda viner,19 st
+1869,Marqués de Riscal,Röda viner,20 st
+540658,Mas Louise,Röda viner,25 st
+16864,Masi,Röda viner,17 st
+33862,Masi,Röda viner,3 st
+21955,Masi,Röda viner,35 st
+536753,Masi,Röda viner,17 st
+19186,Masi,Röda viner,20 st
+6347,Masi,Röda viner,28 st
+220779,Masi Campofiorin,Röda viner,9 st
+2974,Masi Campofiorin,Röda viner,30 st
+20299,Masi Campofiorin,Röda viner,5 st
+935030,Matua,Röda viner,16 st
+193689,Mauro,Röda viner,16 st
+24248,Mauro,Röda viner,30 st
+31888,Mauro,Röda viner,44 st
+390909,McManis,Röda viner,51 st
+839777,McManis,Röda viner,14 st
+509382,Millefiori,Röda viner,20 st
+981804,Monte Serrano,Röda viner,22 st
+632413,Montelciego,Röda viner,24 st
+48017,Monterosso,Röda viner,35 st
+215598,Monti Garbi,Röda viner,30 st
+793370,Montico,Röda viner,30 st
+707159,Montlaiz,Röda viner,32 st
+540185,Mont-Redon,Röda viner,23 st
+960334,Morberg Collection,Röda viner,22 st
+659153,Morberg Collection,Röda viner,28 st
+710098,Morberg Collection,Röda viner,12 st
+2962,Morgon,Röda viner,23 st
+15635,Muriel,Röda viner,13 st
+13336,Navajas,Röda viner,51 st
+963327,Nuevo Mundo Organic,Röda viner,26 st
+1011573,Oinoz,Röda viner,27 st
+47739,Olivier Leflaive,Röda viner,22 st
+624472,Org de Rac,Röda viner,51 st
+823006,Org de Rac,Röda viner,31 st
+431326,Palazzo,Röda viner,45 st
+664108,Palazzo,Röda viner,81 st
+560656,Pasqua Amarone della Valpolicella,Röda viner,21 st
+579556,Pasqua Ripasso,Röda viner,31 st
+939357,Passi Reali,Röda viner,9 st
+507546,Passitivo,Röda viner,34 st
+617348,Pata Negra,Röda viner,13 st
+256950,Penfolds Koonunga Hill,Röda viner,22 st
+8607,Penfolds Koonunga Hill,Röda viner,23 st
+299065,Periquita,Röda viner,19 st
+442730,Periquita,Röda viner,22 st
+40945,Peter Lehmann Portrait Barossa,Röda viner,16 st
+40234,Piccini,Röda viner,31 st
+659175,Piccini,Röda viner,27 st
+735132,Picunche,Röda viner,26 st
+510331,Pinot Noir,Röda viner,29 st
+979135,Pirineos Selección,Röda viner,19 st
+786139,P.Lex,Röda viner,20 st
+884557,P.Lex Appassivo,Röda viner,25 st
+799017,Plura Svarta Tuppen,Röda viner,31 st
+634253,Poliziano Vino Nobile di Montepulciano,Röda viner,14 st
+15603,Prego Rosso,Röda viner,81 st
+29242,Primicia,Röda viner,16 st
+884325,Prohibition,Röda viner,45 st
+966460,Prohibition,Röda viner,27 st
+994151,Prugneto,Röda viner,47 st
+501905,Quara,Röda viner,20 st
+755604,¿Qué Pasa?,Röda viner,49 st
+659278,Raccolto,Röda viner,24 st
+272731,Raccolto,Röda viner,17 st
+39521,Raccolto,Röda viner,27 st
+263803,Raccolto,Röda viner,6 st
+670724,Ramón Bilbao,Röda viner,36 st
+198535,Ramos,Röda viner,12 st
+17697,Ravenswood,Röda viner,29 st
+976473,Rawson's Retreat,Röda viner,27 st
+25077,Rawson's Retreat,Röda viner,26 st
+6284,Rawson's Retreat,Röda viner,30 st
+182506,Rawson's Retreat,Röda viner,46 st
+334392,Raza,Röda viner,21 st
+857512,Rendola Governo,Röda viner,16 st
+872075,Ribera 1 One,Röda viner,17 st
+800018,Ricossa,Röda viner,20 st
+48486,Robertson,Röda viner,17 st
+364276,Robertson,Röda viner,20 st
+235847,Rocca di Montemassi,Röda viner,76 st
+246863,Rocca Guicciarda,Röda viner,25 st
+7216,Roodeberg,Röda viner,27 st
+198502,Roodeberg,Röda viner,29 st
+809854,Ruby Zin,Röda viner,40 st
+879938,Ruby Zin,Röda viner,21 st
+1637,Ruffino,Röda viner,17 st
+1636,Ruffino,Röda viner,21 st
+20218,Santa Helena,Röda viner,26 st
+907217,Santa Helena,Röda viner,32 st
+364193,Santa Inés,Röda viner,11 st
+976458,Scarlet Runner,Röda viner,10 st
+1011540,Secateurs,Röda viner,55 st
+42093,Seghesio,Röda viner,24 st
+41794,Selvarossa,Röda viner,63 st
+617229,Shelter,Röda viner,2 st
+903616,Simonsig Cape Blend,Röda viner,21 st
+832936,Smart Dog,Röda viner,19 st
+504633,SomeZin,Röda viner,88 st
+864567,Sonoma Hills,Röda viner,21 st
+543435,Sonovino,Röda viner,10 st
+584259,Soprasasso,Röda viner,12 st
+591000,Soprasasso,Röda viner,19 st
+48516,South Atlantic,Röda viner,41 st
+585914,Spring Village,Röda viner,45 st
+851145,Summerton,Röda viner,17 st
+20580,Sunrise,Röda viner,20 st
+15267,Sunrise,Röda viner,21 st
+20189,Sunrise,Röda viner,18 st
+779881,Tajano Rosso Piceno,Röda viner,40 st
+979045,Tapiz,Röda viner,17 st
+501899,Tapiz Joven,Röda viner,23 st
+777709,Tenuta Vignega,Röda viner,0 st
+507128,Terre de Mistral,Röda viner,20 st
+850140,Terre de Mistral Reserve,Röda viner,19 st
+786122,The Big Zin,Röda viner,29 st
+673390,The Big Zin,Röda viner,96 st
+670000,The Black Shiraz,Röda viner,17 st
+947630,The Econic,Röda viner,13 st
+801070,The Grand Western,Röda viner,26 st
+643975,The Ultimate Zin,Röda viner,46 st
+743464,The Wanted Zin,Röda viner,130 st
+794061,The Wanted Zin,Röda viner,83 st
+819341,Ti Amo,Röda viner,21 st
+801049,Tina Montepulciano d'Abruzzo,Röda viner,22 st
+28811,Tommasi,Röda viner,9 st
+13541,Tommasi,Röda viner,14 st
+793373,Tommasi Graticcio Appassionato,Röda viner,22 st
+584124,Tommasi Graticcio Appassionato,Röda viner,39 st
+718246,Tommasi Graticcio Appassionato,Röda viner,12 st
+641894,Tommasi Palanca,Röda viner,22 st
+832353,Tommasi Surani Atlas,Röda viner,34 st
+719625,Tommolo,Röda viner,37 st
+4609,Torres Coronas,Röda viner,28 st
+4608,Torres Coronas,Röda viner,20 st
+1983,Torres Gran Sangre de Toro,Röda viner,23 st
+907056,Torres Las Mulas,Röda viner,35 st
+14540,Torres San Valentín,Röda viner,24 st
+12602,Trapiche,Röda viner,32 st
+294776,Trio,Röda viner,30 st
+52511,Trivento,Röda viner,38 st
+300846,Troppo,Röda viner,31 st
+11468,Turning Leaf,Röda viner,27 st
+326380,Umbala,Röda viner,44 st
+958171,Unravelled,Röda viner,0 st
+235888,Valle Reale,Röda viner,19 st
+1624,Villa Antinori,Röda viner,14 st
+45764,Villa Cafaggio,Röda viner,21 st
+912051,Villa Cavallo,Röda viner,16 st
+43561,Villa Puccini,Röda viner,14 st
+30144,Villa Puccini,Röda viner,28 st
+43560,Villa Puccini,Röda viner,4 st
+740764,Villa Righetti,Röda viner,24 st
+1020801,Villa Valentina,Röda viner,22 st
+732377,Ville di Antanè,Röda viner,33 st
+16899,Viña Albali,Röda viner,31 st
+12483,Viña Herminia,Röda viner,35 st
+37145,Viña Maipo,Röda viner,28 st
+10475,Viña Maipo,Röda viner,36 st
+25269,Viña Maipo,Röda viner,66 st
+252849,Viña Maipo,Röda viner,32 st
+829742,Vinha da Urze,Röda viner,18 st
+952273,Vinistella,Röda viner,22 st
+852940,Vinistella,Röda viner,29 st
+901504,Vinistella,Röda viner,68 st
+21349,Wolf Blass Eaglehawk,Röda viner,33 st
+966104,Woodstock,Röda viner,20 st
+714108,Xavier,Röda viner,14 st
+52452,Yellow Tail,Röda viner,26 st
+819196,Z1N Il Numero Uno Zinfandel,Röda viner,22 st
+786470,Zafrica,Röda viner,61 st
+958266,Zafrica,Röda viner,25 st
+34990,Zenato,Röda viner,21 st
+11613,Zenato,Röda viner,21 st
+863226,Zensa,Röda viner,39 st
+842231,Zensa,Röda viner,109 st
+819350,Zupreme,Röda viner,17 st
+374867,Åkesson,Röda viner,51 st
+445

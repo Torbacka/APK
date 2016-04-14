@@ -1,0 +1,40 @@
+Röda
+2 
+Rött vin  453
+Vita 1 
+Vitt vin 305
+ Rosé 1 
+Rosévin 55 
+Mousserande vin 116 Öl
+317 Blanddrycker
+27 Cider
+41 Alkoholfritt
+59 Aniskryddad sprit
+1 Aperitif
+9 Bitter
+5 Brandy och Vinsprit
+6 Calvados
+6 Cognac
+18 Drinkar och Cocktails
+4 Fruktvin
+8 Gin
+16 Glögg och Glühwein
+30 Grappa och Marc
+1 Kryddad sprit
+32 Likör
+57 Madeira
+2 Mjöd
+3 Okryddad sprit
+22 Portvin
+14 Punsch
+4 Rom
+19 Sake
+2 Sherry
+13 Smaksatt sprit
+17 Smaksatt vin
+8 Tequila och Mezcal
+3 Vermouth
+8 Whisky
+115 Övrig sprit 4
+Övrigt 
+6 starkvin

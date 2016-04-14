@@ -1,11 +1,10 @@
-<?php
-	$start = microtime(true);
-	//Måste ha config filen :P
-	require "configuration.php";
-	$csvFilepath = "articles.csv";
-	//Hämtar all data som finns på systembolagest api sida
-	$stringXml =  file_get_contents('http://www.systembolaget.se/Assortment.aspx?Format=Xml');
-	//Parsar den så den blir lätt att jobba med
+<?php     
+	$start = microtime(true);     
+	//Måste ha config filen :P     require
+		
+	require "configuration.php"; 
+	$stringXml = file_get_contents('http://www.systembolaget.se/Assortment.aspx?Format=Xml');
+	//Parsar den så den blir lätt att jobba med     
 	$xml = simplexml_load_string($stringXml);
 	
 	
@@ -17,23 +16,25 @@
 	//Sen skriver jag in alla värden till databasen
 	function insertToDatabase($xml){
 		//kopplar in till database
-			
+		$mysqli = mysqli_connect(DB_HOST,DB_USER,DB_PASSWORD, DB_NAME);
 		if(!$mysqli){
-			echo "Det här gick ju inte så bra!";
+				echo "Det här gick ju inte så bra!";
 		}
 		//Tömmer tabellen så att den blir nollställd
-		$mysqli->query("truncate apk2");
+		$mysqli->query("truncate apk_data");
 		//sätter upp prepered
-		$stmt = $mysqli->prepare("INSERT INTO apk2 (id,name,name2, department,volym,price, alcoholByVolym, apk, status) VALUES (?,?,?,?,?,?,?,?,?)");
+		$stmt = $mysqli->prepare("INSERT INTO apk_data (id,item_id,name,name2, department,volym,price, alcohol_by_volym, apk, status) VALUES (?,?,?,?,?,?,?,?,?,?)");
 		
-		$stmt->bind_param("isssdddds", $id, $name, $name2, $department, $volym, $price, $alcoholByVolym, $apk, $status);
+
+		$stmt->bind_param("iisssdddds", $id,$artikelid, $name, $name2, $department, $volym, $price, $alcoholByVolym, $apk, $status);
 		$char = ",";
 		$csvFile ="";
 		//Loppar igenom alla artiklar
 		foreach ( $xml->artikel as $attribute){
 
-			$id = $attribute->nr;
-			$name = utf8_decode(deleteComma($attribute->Namn));
+			$id=$attribute->nr;
+			$artikelid = $attribute->Artikelid;
+			$name =utf8_decode(deleteComma($attribute->Namn));
 			$name2 = utf8_decode(deleteComma($attribute->Namn2));
 			$department = utf8_decode(getDep($attribute->Varugrupp));
 

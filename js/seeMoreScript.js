@@ -1,0 +1,3 @@
+$("#apk-loadmore").onClick(function() {
+	
+});

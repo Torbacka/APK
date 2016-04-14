@@ -1,5 +1,6 @@
 #page{
 	padding-top:100px;
+	margin-bottom: 60px;
 }
 
 #box{
@@ -49,6 +50,9 @@ table{
 	border:1px solid #DDD;
 	border-radius: 10px;
 }
+.table{
+	margin-bottom: 0px;
+}
 #calcApk{
 	margin-bottom: 25px;
 }
@@ -61,6 +65,13 @@ table{
 	text-align: center;
 	font-size: 22px;
 
+}
+#apk-loadmore{
+	width:100%;
+}
+#apkTable tbody tr:hover{
+	cursor: pointer;
+	background:#b3b3b3;
 }
 @media only screen and (max-width: 800px) {
 	#unseen table td:nth-child(3), 

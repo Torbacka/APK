@@ -1,0 +1,11 @@
+<?php
+	$curl = curl_init();
+	curl_setopt($curl, CURLOPT_URL, "http://www.systembolaget.se/api/productsearch/search?subcategory=R%C3%B6tt%20vin&sortdirection=Ascending&site=0902&fullassortment=0&page=1");
+	curl_setopt($curl, CURLOPT_RETURNTRANSFER,1);
+	$output = curl_exec($curl);
+
+	$data = json_decode($output);
+	$times = $data->Metadata->DocC
+
+
+?>
