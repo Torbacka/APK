@@ -1,13 +1,13 @@
 <?php
 	require "configuration.php";
-	
+	getStock(1);
 	function getStock($artikelid){
 		$tuCurl = curl_init();
-		curl_setopt($tuCurl, CURLOPT_URL, "http://www.systembolaget.se/api/product/getstockbalance");
+		curl_setopt($tuCurl, CURLOPT_URL, "http://statistik.uhr.se/api/GetJQueryDataTableResultModel");
 		curl_setopt($tuCurl, CURLOPT_POST, 1);
 		curl_setopt($tuCurl, CURLOPT_RETURNTRANSFER, 1);
 		//$stringToArray = implode("\",\"",$array);
-		$data = '{"productId":'.$artikelid.',"siteIds":["0114"]}';
+		$data = '{"TableType":"SelectionRound1","ResultType":"AdmissionPoint","AdmissionRoundId":"HT2015","EducationOrgId":"SU","ProgKurs":"","Search":"","SelCriterionId":"","RecordStart":25,"RecordLength":100,"SortColumnIndex":0,"SortColumnDesc":false,"RequestNumber":93,"Paginate":true}';
 		curl_setopt($tuCurl, CURLOPT_POSTFIELDS,$data);
 		curl_setopt($tuCurl, CURLOPT_HTTPHEADER, array("Content-Type: application/json;charset=utf-8", "Content-length: ".strlen($data)));
 
@@ -36,7 +36,7 @@
 		getStockFromDatabase($store);
 	}else{
 		getStockFromStore($store);
-	}*/
+	}
 
 	function checkIfStockExist($store){
 
@@ -63,6 +63,6 @@
 	  		}
 		}
 		return $array;
-	}
+	}*/
 
 ?>

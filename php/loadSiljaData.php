@@ -83,7 +83,7 @@
 					$volym =$value->size;
 				}
 				
-				$alcoholByVolym = $value->alc;
+				$alcoholByVolym = procentToDecimal($value->alc);
 				$apk = calcAPK($price, $volym, $alcoholByVolym);
 				if(isset($value->campaignType)){
 					$status = $value->campaignType;
@@ -111,7 +111,7 @@
 		if($price=='0'){
 			return 0;
 		}else{
-			return floatval($volym)*10*floatval(procentToDecimal($alc))/floatval($price);
+			return floatval($volym)*10*floatval($alc)/floatval($price);
 		}
 	}
 ?>
