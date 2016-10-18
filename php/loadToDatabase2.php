@@ -3,7 +3,13 @@
 	//Måste ha config filen :P     require
 		
 	require "configuration.php"; 
-	$stringXml = file_get_contents('http://www.systembolaget.se/Assortment.aspx?Format=Xml');
+	$arrContextOptions=array(
+    	"ssl"=>array(
+        	"verify_peer"=>false,
+        	"verify_peer_name"=>false,
+    		),
+	); 
+	$stringXml = file_get_contents('https://www.systembolaget.se/Assortment.aspx?Format=Xml', false, stream_context_create($arrContextOptions));
 	//Parsar den så den blir lätt att jobba med     
 	$xml = simplexml_load_string($stringXml);
 	
