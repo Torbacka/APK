@@ -1,3 +1,3 @@
 class FirestoreClient:
-    def store(self):
+    def store(self, articles):
         pass

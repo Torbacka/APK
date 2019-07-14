@@ -2,13 +2,13 @@ import json
 
 from flask import request, Flask, jsonify
 
-from service.apk_calculator import calculate
+from service.apk_calculator import calculate_and_store
 
 app = Flask(__name__)
 
 
 def recalculate():
-    calculate("")
+    calculate_and_store("")
     pass
 
 
