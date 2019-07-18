@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 
 def recalculate():
-    calculate_and_store("")
+    calculate_and_store()
     pass
 
 
