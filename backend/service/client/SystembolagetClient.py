@@ -37,6 +37,7 @@ def parse(articles):
             'ethical': article['Etiskt'] == 1 if True else False,
             'kosher': article['Koscher'] == 1 if True else False,
             'commodity_description': article.get('RavarorBeskrivning'),
+            'create_at': datetime.now().fromtimestamp(0),
 
         })
     return parsed_articles

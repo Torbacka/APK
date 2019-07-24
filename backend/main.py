@@ -1,20 +1,18 @@
-import json
-
-from flask import request, Flask, jsonify
+from flask import Flask, request
 
 from service.apk_calculator import calculate_and_store
 
 app = Flask(__name__)
 
 
-def recalculate():
+def recalculate(request):
     calculate_and_store()
     pass
 
 
 @app.route('/recalculate', methods=['GET'])
 def local_recalculate():
-    recalculate()
+    recalculate(request)
     return ''
 
 
