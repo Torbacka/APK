@@ -12,3 +12,14 @@ class FirestoreClient:
             if i % 499 == 0:
                 batch.commit()
                 print(500)
+
+    def get(self):
+        docs = self._database.collection("apk").stream()
+        i = 0
+        for doc in docs:
+            i += 1
+        print(i)
+
+
+if __name__ == '__main__':
+    FirestoreClient().get()
