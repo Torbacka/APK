@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint-plugin-lodash": "^6.0.0",
+    "griddle-react": "^1.13.1",
+    "lodash": "^4.17.15",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.0",
-    "react-table": "^6.10.0"
+    "react-scripts": "3.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -14,6 +16,12 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "plugins": [
+    "lodash"
+  ],
+  "extends": [
+    "plugin:lodash/recommended"
+  ],
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -28,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
   }
 }
