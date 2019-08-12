@@ -1,12 +1,16 @@
 import React from "react";
 import Griddle from "griddle-react";
-import fakeData from "fakeData"
-let externalData = fakeData.slice(0, 53);
+import fakeData from "./fakeData"
+import _ from 'lodash';
 
+let externalData = fakeData.slice(0, 53);
+console.log(externalData);
 class ApkComponent extends React.Component {
 
-    getInitialState() {
-        var initial = { "results": [],
+    constructor(props, context) {
+        super(props, context);
+
+        this.state = { "results": [],
             "currentPage": 0,
             "maxPages": 0,
             "externalResultsPerPage": 5,
@@ -14,10 +18,9 @@ class ApkComponent extends React.Component {
             "externalSortAscending":true,
             "pretendServerData": externalData
         };
+    };
 
-        return initial;
-    }
-    componentWillMount() {
+    componentDidMount() {
         this.setState({
             maxPages: Math.round(this.state.pretendServerData.length/this.state.externalResultsPerPage),
             "results": this.state.pretendServerData.slice(0,this.state.externalResultsPerPage)

@@ -3,12 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "eslint-plugin-lodash": "^6.0.0",
     "griddle-react": "^1.13.1",
     "lodash": "^4.17.15",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.0"
+  },
+  "globals": {
+    "_": true
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,14 +18,14 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "plugins": [
-    "lodash"
-  ],
-  "extends": [
-    "plugin:lodash/recommended"
-  ],
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": [
+      "react-app",
+      "plugin:lodash/recommended"
+    ],
+    "plugins": [
+      "lodash"
+    ]
   },
   "browserslist": {
     "production": [
@@ -38,6 +40,13 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^6.1.0"
+    "eslint": "^6.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-lodash": "^6.0.0"
   }
 }
